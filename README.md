@@ -15,7 +15,6 @@ A web-based application that allows users to submit their personal details and u
   - [Installation and Running](#installation-and-running)
 - [API Endpoints](#api-endpoints)
 - [File Uploads](#file-uploads)
-- [License](#license)
 
 ---
 
